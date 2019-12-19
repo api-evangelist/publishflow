@@ -1,0 +1,36 @@
+{
+    "name": "Publishflow",
+    "description": "<p>Publishflow&trade; allows digital executives, web editors, content creators and analysts to easily monitor live audience, competitor, topic and social trending data in a single service.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/publishflow-logo.png",
+    "tags": [
+        "have api",
+        "news"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/publishflow\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Publishflow",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/publishflow-logo.png",
+            "humanURL": "http:\/\/www.publishflow.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/publishflow-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.publishflow.com\/"
+        }
+    ]
+}
